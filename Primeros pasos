@@ -1,0 +1,4 @@
+Lo primero que hacemos cuando ya tenemos una base de datos creada es ver las tablas que la componen
+para esto podemos usar el StoredProcedure siguiente:
+
+SP_TABLE @TABLE_OWNER='DBO'
