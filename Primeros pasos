@@ -1,4 +1,4 @@
 Lo primero que hacemos cuando ya tenemos una base de datos creada es ver las tablas que la componen
 para esto podemos usar el StoredProcedure siguiente:
-
+--Recordar que solo mostrara las creadas por el usuario y no por el SQL Server
 SP_TABLE @TABLE_OWNER='DBO'
