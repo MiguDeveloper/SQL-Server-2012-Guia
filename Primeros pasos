@@ -40,5 +40,8 @@ para esto podemos usar el StoredProcedure siguiente:
   VALUES ('Michael','Renmc','Av. Libertad','963778547')
   GO
 
-SELECT*FROM AGENDA
-GO
+--AHORA MOSTRAREMOS LOS DATOS USANDO EL COMANDO SELECT EN LA TABLA AGENDA
+  SELECT*FROM AGENDA
+  GO
+  
+  continua...
