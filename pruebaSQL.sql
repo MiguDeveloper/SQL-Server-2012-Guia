@@ -1,5 +1,5 @@
 --GUIA BASICA DE SQL-SERVER
---AUTHOR:
+--AUTHOR: MIGUEL CHINCHAY H.
 
 Lo primero que hacemos cuando ya tenemos una base de datos creada es ver las tablas que la componen
 para esto podemos usar el StoredProcedure siguiente:
